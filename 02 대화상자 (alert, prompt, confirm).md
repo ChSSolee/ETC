@@ -24,7 +24,7 @@ alert("환영합니다. " + name + "님");
 ```
 
 
-![Cap_2022-12-05_22-24-40-375.png](02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-24-40-375.png)
+![Cap_2022-12-05_22-24-40-375.png](img/Cap_2022-12-05_22-24-40-375.png)
 
 
 ```jsx
@@ -38,7 +38,7 @@ console.log(name)
 ```
 
 ![Cap 2022-12-05 22-25-32-603.png]
-(02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-25-32-603.png)
+(img/Cap_2022-12-05_22-25-32-603.png)
 
 ```jsx
 const name = prompt("예약일을 입력해주세요.", "2020-10-");
@@ -47,7 +47,7 @@ console.log(name)
 ```
 
 ![Cap 2022-12-05 22-26-02-063.png]
-(02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-26-02-063.png)
+(img/Cap_2022-12-05_22-26-02-063.png)
 
 ### `confirm()` :
 
@@ -60,7 +60,7 @@ console.log(isAdult)
 ```
 
 ![Cap 2022-12-05 22-26-37-583.png]
-(02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-26-37-583.png)
+(img/Cap_2022-12-05_22-26-37-583.png)
 
 ```
 true
