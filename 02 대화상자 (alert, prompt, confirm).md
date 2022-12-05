@@ -23,7 +23,8 @@ const name = prompt("이름을 입력하세요.");
 alert("환영합니다. " + name + "님");
 ```
 
-![Cap 2022-12-05 22-24-40-375.png](02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-24-40-375.png)
+![Cap 2022-12-05 22-24-40-375.png]
+(02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-24-40-375.png)
 
 ```jsx
 const name = prompt("이름을 입력하세요.");
@@ -35,7 +36,8 @@ console.log(name)
 "이찬솔"
 ```
 
-![Cap 2022-12-05 22-25-32-603.png](02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-25-32-603.png)
+![Cap 2022-12-05 22-25-32-603.png]
+(02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-25-32-603.png)
 
 ```jsx
 const name = prompt("예약일을 입력해주세요.", "2020-10-");
@@ -43,7 +45,8 @@ const name = prompt("예약일을 입력해주세요.", "2020-10-");
 console.log(name)
 ```
 
-![Cap 2022-12-05 22-26-02-063.png](02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-26-02-063.png)
+![Cap 2022-12-05 22-26-02-063.png]
+(02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-26-02-063.png)
 
 ### `confirm()` :
 
@@ -55,7 +58,8 @@ const isAdult = confirm("당신은 성인 입니까?");
 console.log(isAdult)
 ```
 
-![Cap 2022-12-05 22-26-37-583.png](02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-26-37-583.png)
+![Cap 2022-12-05 22-26-37-583.png]
+(02 대화상자 (alert, prompt, confirm) 4f3906e87edd4371ae1c78cbfa12206a/Cap_2022-12-05_22-26-37-583.png)
 
 ```
 true
