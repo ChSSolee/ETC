@@ -73,3 +73,4 @@ matrix(1:9, nrow = 3, ncol = 3, byrow = T, # TRUE : 행우선 / FALSE : 열우�
 
 - read.table("파일명", header = F, sep="구분자, stringAsFactors=T)
 - write.table(데이터, file="파일경로/파일명", sep="구분자", row.names=T, col.names=T)
+
